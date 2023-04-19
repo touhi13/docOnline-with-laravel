@@ -1,0 +1,9 @@
+admin
+url: http://localhost/review/review/login
+user :admin@gmail.com
+pass:12345678
+
+Doctor
+url: http://localhost/review/review/login
+user :masumidb2018@gmil.com
+pass:12345678
